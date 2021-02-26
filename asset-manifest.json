@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Smart-Detection/static/css/main.63614389.chunk.css",
-    "main.js": "/Smart-Detection/static/js/main.ab303502.chunk.js",
-    "main.js.map": "/Smart-Detection/static/js/main.ab303502.chunk.js.map",
+    "main.js": "/Smart-Detection/static/js/main.4320ae5f.chunk.js",
+    "main.js.map": "/Smart-Detection/static/js/main.4320ae5f.chunk.js.map",
     "runtime-main.js": "/Smart-Detection/static/js/runtime-main.40eb5531.js",
     "runtime-main.js.map": "/Smart-Detection/static/js/runtime-main.40eb5531.js.map",
     "static/css/2.31461e4f.chunk.css": "/Smart-Detection/static/css/2.31461e4f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.e5433b6b.chunk.js",
     "static/css/main.63614389.chunk.css",
-    "static/js/main.ab303502.chunk.js"
+    "static/js/main.4320ae5f.chunk.js"
   ]
 }
